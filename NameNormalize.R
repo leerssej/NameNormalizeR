@@ -192,4 +192,3 @@ glimpse(clusterREM2RejoinedFullPlus)
 #checkit in xlsx
 write.csv(clusterREM2RejoinedFullPlus, "clusterREM2RejoinedFullPlus.csv", row.names = F, na = "")##Name membership testing
 save(clusterREM2RejoinedFullPlus, file = "clusterREM2RejoinedFullPlus")
-
