@@ -5,6 +5,8 @@ Description:
   * Norm and exclude name memberships 
   * string cluster names, 
   * select most representative name
+URL: https://github.com/leerssej/NameNormalizeR
+BugReports: https://github.com/leerssej/NameNormalizeR/issues
 Depends:
     R (>= 3.1.0)
     magrittr
