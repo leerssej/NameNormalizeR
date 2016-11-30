@@ -6,9 +6,9 @@ Description:
   * string cluster names, 
   * select most representative name
 Depends:
-    R (>= 3.1.0),
+    R (>= 3.1.0)
     magrittr
     tidyverse
-Authors@R: person("Jens", "Leerssen", email = "jens.leerssen@gmail.com", role = c("aut", "cre")leerssej <br>
+Authors@R: person("Jens", "Leerssen", email = "jens.leerssen@gmail.com", role = c("aut", "cre")leerssej
 Date: Updated 28 Nov 2016
 License: GPL-3
