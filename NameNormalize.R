@@ -81,7 +81,7 @@ glimpse(clusterREM2)
 # Compare Ns to Nb with rows
 clusterREM2aa <- 
     clusterREM2 %>% 
-    mutate(NameQNrmd = signif(NameCnt/ShardCount,digits = 5),
+    mutate(NameQNrmd = signif(NameCnt/ShardCount, digits = 5),
            AvgCt = signif(ClstrNameCnt/rows, digits = 0))
 glimpse(clusterREM2aa)
 
